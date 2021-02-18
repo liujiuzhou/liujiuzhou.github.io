@@ -7,3 +7,9 @@
 #
 layout: home
 ---
+
+    <main class="container">
+      <div class="row">
+        <div class="col-md-9">内容</div>
+      </div>
+    </main>
